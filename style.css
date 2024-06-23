@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    background-color: rgb(226, 216, 204);
+    align-items: center;
+    justify-content: center;
+  }
+  
+  
+  .container{
+    background-color: rgb(205, 219, 214);
+    border-radius: 9px;
+    height: 80vh;
+    padding:2em ;
+    box-shadow: 2px 2px  13px 0px rgb(71, 75, 64);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+  }
+  .container h1{
+    color: rgb(214, 160, 72);
+  }
+
+  
+  .circle-1{
+    height:50vh ;
+    width: 50vh;
+    border: 2px solid black;
+    background-color: aliceblue;
+    border-radius: 50%;
+  }
