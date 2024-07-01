@@ -25,3 +25,5 @@ This project demonstrates a simple color-changing loop that stops when the user 
 3. Press the first letter of the displayed color to stop the loop.
 4. Press the spacebar to resume the loop.
 
+You can check out the live version of the project [here](https://dynamic-color-loop.vercel.app/).
+
